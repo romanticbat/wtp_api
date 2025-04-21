@@ -1,5 +1,15 @@
 {
+  "name": "who-pokemon-api",
+  "version": "1.0.0",
+  "description": "API para enviar imagens de Pokémon por número",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
